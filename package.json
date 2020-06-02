@@ -1,0 +1,26 @@
+{
+  "name": "beanbag",
+  "version": "1.0.0",
+  "description": "Ultimate typescript serverless project development environment",
+  "main": "index.ts",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterforgacs/beanbag.git"
+  },
+  "keywords": [
+    "typescript",
+    "serverless"
+  ],
+  "author": "Peter Forgacs <hello@peterforgacs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterforgacs/beanbag/issues"
+  },
+  "homepage": "https://github.com/peterforgacs/beanbag#readme"
+}
