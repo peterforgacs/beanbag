@@ -8,7 +8,7 @@
 <div align="center">
 
   [![Build](https://travis-ci.org/peterforgacs/beanbag.svg?branch=master)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+  [![GitHub Issues](https://img.shields.io/github/issues/peterforgacs/beanbag.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/peterforgacs/beanbag.svg)](https://github.com/peterforgacs/beanbag/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
