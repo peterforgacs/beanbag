@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2018",
+    "outDir": "./build",
+    "rootDir": "./",
+    "sourceMap": false,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "strictPropertyInitialization": false,
+    "removeComments": true
+  },
+  "exclude": ["node_modules", "**/*.spec.ts", "**/*.mock.ts", "**/*.test.ts"]
+}
