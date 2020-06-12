@@ -7,7 +7,7 @@
     "example": "example"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --collect-coverage",
     "commit": "git-cz",
     "release": "standard-version"
   },
