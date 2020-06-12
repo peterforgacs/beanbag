@@ -8,7 +8,7 @@
 ---
 
 <p align="center"> Ultimate typescript serverless project development environment
-    <br> 
+    <br>
 </p>
 
 ## 📝 Table of Contents
