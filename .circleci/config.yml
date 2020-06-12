@@ -15,3 +15,7 @@ jobs:
       - codecov/upload:
           file: coverage/*.json
           flags: all
+workflows:
+  build-and-test:
+    jobs:
+      - build-and-test
