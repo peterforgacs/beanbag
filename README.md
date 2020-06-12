@@ -1,18 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./image/logo.png" alt="Bean Bag Logo"></a>
+ <img width=200px height=200px src="https://res.cloudinary.com/dcl0y1bhz/image/upload/v1592000863/logo_juypke.png" alt="Bean Bag Logo"></a>
 </p>
 
 <h3 align="center">Bean Bag</h3>
-
-<div align="center">
-
-  [![Build](https://travis-ci.org/peterforgacs/beanbag.svg?branch=master)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/peterforgacs/beanbag.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/peterforgacs/beanbag.svg)](https://github.com/peterforgacs/beanbag/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-</div>
 
 ---
 
