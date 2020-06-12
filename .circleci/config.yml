@@ -21,6 +21,6 @@ workflows:
   build-and-test-and-upload-coverage:
     jobs:
       - build-and-test
-      - upload-code-coverage
+      - upload-code-coverage:
           requires:
             - build-and-test
