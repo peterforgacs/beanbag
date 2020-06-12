@@ -17,6 +17,10 @@ jobs:
       - codecov/upload:
           file: coverage/coverage-final.json
 workflows:
-  build-and-test:
+  version: 2
+  build-and-test-and-upload-coverage:
     jobs:
       - build-and-test
+      - upload-code-coverage
+          requires:
+            - build-and-test
