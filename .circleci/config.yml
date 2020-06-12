@@ -20,4 +20,3 @@ workflows:
   build-and-test:
     jobs:
       - build-and-test
-      - upload-code-coverage
