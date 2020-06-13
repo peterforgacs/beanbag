@@ -8,7 +8,7 @@
 ---
 
 <p align="center"> Ultimate typescript serverless project development environment
-    <br> 
+    <br>
 </p>
 
 ## 📝 Table of Contents
@@ -48,6 +48,7 @@ npm run info
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [NPM](https://www.npmjs.com/) - Dependency Management
 - [Node.js](https://nodejs.org/en/) - Server Environment
+- [Circle CI](https://circleci.com/) - CI / CD Pipeline
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@peterforgacs](https://github.com/peterforgacs) - Idea & Initial work
